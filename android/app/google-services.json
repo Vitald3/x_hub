@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644523110914",
+    "project_id": "xhub-3f094",
+    "storage_bucket": "xhub-3f094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644523110914:android:09860a0ee5af5482e5ed1b",
+        "android_client_info": {
+          "package_name": "com.xHub.x_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-14tgt3Qjd7NdhISgAlhUBBJbZ_r4EZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
